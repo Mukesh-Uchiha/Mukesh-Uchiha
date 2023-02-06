@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mukesh N</h1>
+
+
+<h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="40px" />, I'm Mukesh N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
