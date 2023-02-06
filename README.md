@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IkTKR4HlrUvwRhwnXAkqduC8YbfU2udO/view?usp=share_link](https://drive.google.com/file/d/1IkTKR4HlrUvwRhwnXAkqduC8YbfU2udO/view?usp=share_link)
 
-- ⚡ Fun fact **WEEB in Nigth WEEB in Day**
+- ⚡ Fun fact **WEEB by Day WEEB By Night**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukesh-uchiha&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh-uchiha" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mukesh-uchiha" alt="mukesh-uchiha" /></a> </p>
