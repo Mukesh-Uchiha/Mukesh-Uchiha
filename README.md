@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Game dev**
 
 - 🌱 I’m currently learning **MERN Stack**
 
